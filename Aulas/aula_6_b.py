@@ -1,0 +1,7 @@
+n = input('Diga algo, vamos testar. ')
+print('E uma', type(n))
+print('Entao e alfanumerica?',n.isalnum())
+print('Entao e numerica?', n.isnumeric())
+print('Entao e letra?', n.isalpha())
+print('Entao tem espaco? ', n.isspace())
+print('Entao e decimal?', n.isdecimal())
