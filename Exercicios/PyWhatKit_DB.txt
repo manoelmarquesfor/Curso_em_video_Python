@@ -1,5 +1,0 @@
-Date: 20/1/2022
-Time: 10:4
-Phone Number: +558588512350
-Message: Teste com o pywhatkit
---------------------
